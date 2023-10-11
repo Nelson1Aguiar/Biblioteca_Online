@@ -13,7 +13,7 @@
 - Campos de estrelas: Representação da nota atribuída pelo usuário.
 
 # Capturas de tela
-
+![WhatsApp Image 2023-10-11 at 00 03 25_resized](https://github.com/Nelson1Aguiar/Biblioteca_Online/assets/132019512/2c042089-b1e3-4be1-b415-e256cb5bcdd8)
 ![WhatsApp Image 2023-10-11 at 00 03 26_resized](https://github.com/Nelson1Aguiar/Biblioteca_Online/assets/132019512/905fa9ae-e95f-41de-acb1-5230e270644c)
 
 
