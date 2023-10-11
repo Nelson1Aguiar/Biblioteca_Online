@@ -14,6 +14,7 @@
 
 # Capturas de tela
 ![WhatsApp Image 2023-10-11 at 00 03 25](https://github.com/Nelson1Aguiar/Biblioteca_Online/assets/132019512/c70351a2-916f-42b5-bad7-9862eb16328e)
+![WhatsApp Image 2023-10-11 at 00 03 26_resized](https://github.com/Nelson1Aguiar/Biblioteca_Online/assets/132019512/905fa9ae-e95f-41de-acb1-5230e270644c)
 
 
 
